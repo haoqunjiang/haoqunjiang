@@ -1,8 +1,8 @@
 #### Hi there 👋
 
-I'm Haoqun Jiang, a member of the Vue.js core team and work full time on open-source.
+I'm Haoqun Jiang from the Vue.js core team, working full time on open source.
 
-I work on Vue.js build tools and Vite.
+I help maintain Vue.js build tools and contribute to Vite.
 
 
 <!--

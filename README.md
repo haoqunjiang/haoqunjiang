@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Hi there 👋
+
+I'm Haoqun Jiang, a full-time member of the Vue.js core team.
+
+I work on Vue.js build tools and Vite.
+
 
 <!--
 **sodatea/sodatea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

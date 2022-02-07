@@ -6,8 +6,6 @@ My job is to help Vue.js users connect the dots in the fast evolving web tooling
 
 You can sponsor my open source work via [GitHub Sponsors](https://github.com/sponsors/sodatea) or [爱发电](https://www.afdian.net/@sodatea).
 
-I track my current work publicly at https://github.com/users/sodatea/projects/1/views/1
-
 <!--
 **sodatea/sodatea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

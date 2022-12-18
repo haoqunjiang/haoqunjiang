@@ -7,5 +7,5 @@ So I help maintain several Vue.js build tools and contribute to Vite.
 
 You can sponsor my open source work via [GitHub Sponsors](https://github.com/sponsors/sodatea).
 
-- Mastodon: [mas.to/@haoqun](https://mas.to/@haoqun)
-- Twitter: [@haoqunjiang](https://twitter.com/haoqunjiang)
+- <a rel="me" href="https://m.webtoo.ls/@haoqun">Mastodon</a>
+- <a rel="me" href="https://twitter.com/haoqunjiang">Twitter</a>

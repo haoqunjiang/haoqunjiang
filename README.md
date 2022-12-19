@@ -9,5 +9,3 @@ You can sponsor my open source work via [GitHub Sponsors](https://github.com/spo
 
 - <a rel="me" href="https://m.webtoo.ls/@haoqun">Mastodon</a>
 - <a rel="me" href="https://twitter.com/haoqunjiang">Twitter</a>
-
-<link rel="me" href="https://m.webtoo.ls/@haoqun" />

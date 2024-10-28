@@ -8,5 +8,5 @@ As of July 2024, I'm taking a break from most of my open-source work to recover 
 I still occasionally work on important or interesting new features related to Vue/Vite.
 You can sponsor my open-source work via [GitHub Sponsors](https://github.com/sponsors/sodatea).
 
-My current focus is on better ESLint 9 integration with Vue.js.
+My current focus is on better ESLint/Oxlint integration with Vue.js.
 My previous work experience is listed on [haoqun.cv](https://haoqun.cv/).

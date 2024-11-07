@@ -9,4 +9,5 @@ I still occasionally work on important or interesting new features related to Vu
 You can sponsor my open-source work via [GitHub Sponsors](https://github.com/sponsors/sodatea).
 
 My current focus is on better documentation and easier tooling for cutting-edge features of Vue.js.
+
 My previous work experience is listed on [haoqun.cv](https://haoqun.cv/).
